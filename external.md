@@ -1,5 +1,5 @@
 class: center, middle
-<br/><br/><br/><br/>
+<br/><br/>
 # A Presentation
 ## On very important things using Remark.js
 

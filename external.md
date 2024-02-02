@@ -1,11 +1,11 @@
 class: center, middle
 
-# A Presentation
+# An Awesome Presentation
 ## On very important things using Remark.js
 
 ---
 
-# Agenda
+# Contents
 
 1. Introduction
 2. Deep-dive

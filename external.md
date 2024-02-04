@@ -1,7 +1,7 @@
 class: center, middle
 
 # An Awesome Presentation
-## On very important things using Remark.js
+## On very important things
 
 ---
 

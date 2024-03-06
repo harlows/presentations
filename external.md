@@ -1,7 +1,8 @@
 class: center, middle
 
 # Evidence-Based Study Methods
-## Stephen Harlow, CeTTL
+## Stephen Harlow
+## Te Puna Ako | CeTTL
 
 ---
 
@@ -43,8 +44,6 @@ class: center, middle
 
 ### Bloom's 2 sigma problem:
 > Students tutored one-to-one performed two standard deviations better than students educated in a classroom
-
---
 
 - AI can act as your personal tutor
 

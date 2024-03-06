@@ -3,7 +3,8 @@ class: center, middle
 # Evidence-Based Study Methods
 ## Stephen Harlow
 ### Te Puna Ako | CeTTL
-
+<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1152%2Fadvan.00174.2012&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Retrieval%20practice%20is%20an%20efficient%20method%20of%20enhancing%20the%20retention%20of%20anatomy%20and%20physiology%20information&amp;rft.jtitle=Advances%20in%20Physiology%20Education&amp;rft.volume=37&amp;rft.issue=2&amp;rft.aufirst=John%20L.&amp;rft.aulast=Dobson&amp;rft.au=John%20L.%20Dobson&amp;rft.date=2013-06&amp;rft.pages=184-191&amp;rft.spage=184&amp;rft.epage=191&amp;rft.issn=1043-4046'>
+</span>
 ---
 
 # Retreival Practice
@@ -41,10 +42,9 @@ class: center, middle
 ---
 
 # Or get a personal tutor
---
+
 ### Bloom's 2 sigma problem:
 > Students tutored one-to-one performed two standard deviations better than students educated in a classroom
---
 - AI can act as your personal tutor
 
 ---
@@ -68,5 +68,3 @@ class: center, middle
 - [PDF2Anki](https://www.pdf2-anki.com/)
 - [Lectomate](https://lectomate.app)
 
-<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1152%2Fadvan.00174.2012&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Retrieval%20practice%20is%20an%20efficient%20method%20of%20enhancing%20the%20retention%20of%20anatomy%20and%20physiology%20information&amp;rft.jtitle=Advances%20in%20Physiology%20Education&amp;rft.volume=37&amp;rft.issue=2&amp;rft.aufirst=John%20L.&amp;rft.aulast=Dobson&amp;rft.au=John%20L.%20Dobson&amp;rft.date=2013-06&amp;rft.pages=184-191&amp;rft.spage=184&amp;rft.epage=191&amp;rft.issn=1043-4046'>
-</span>

@@ -2,7 +2,7 @@ class: center, middle
 
 # Evidence-Based Study Methods
 ## Stephen Harlow
-## Te Puna Ako | CeTTL
+### Te Puna Ako | CeTTL
 
 ---
 

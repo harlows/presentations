@@ -22,6 +22,9 @@ class: center, middle
 
 > Retrieval practice, often using electronic flashcards, is increasingly utilised among medical students for self-study ([Sun et al., 2021](https://doi.org/10.1007/s40670-021-01286-y)).
 
+<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1007%2Fs40670-021-01286-y&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Spaced%20Repetition%20Flashcards%20for%20Teaching%20Medical%20Students%20Psychiatry&amp;rft.jtitle=Medical%20Science%20Educator&amp;rft.stitle=Med.Sci.Educ.&amp;rft.volume=31&amp;rft.issue=3&amp;rft.aufirst=Michael&amp;rft.aulast=Sun&amp;rft.au=Michael%20Sun&amp;rft.au=Shelun%20Tsai&amp;rft.au=Deborah%20L.%20Engle&amp;rft.au=Shelley%20Holmer&amp;rft.date=2021-06-01&amp;rft.pages=1125-1131&amp;rft.spage=1125&amp;rft.epage=1131&amp;rft.issn=2156-8650&amp;rft.language=en'>
+</span>
+
 - [Quizlet](https://quizlet.com/)
 - [Anki](https://apps.ankiweb.net/)
 

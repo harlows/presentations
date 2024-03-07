@@ -34,6 +34,9 @@ class: center, middle
 
 > ...students commonly use digital flashcards in a manner that only partially reflects evidence-based learning principles ([Zung et al., 2022](https://www.tandfonline.com/doi/full/10.1080/09658211.2022.2058553)).
 
+<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1080%2F09658211.2022.2058553&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=How%20do%20college%20students%20use%20digital%20flashcards%20during%20self-regulated%20learning%3F&amp;rft.jtitle=Memory&amp;rft.stitle=Memory&amp;rft.volume=30&amp;rft.issue=8&amp;rft.aufirst=Inez&amp;rft.aulast=Zung&amp;rft.au=Inez%20Zung&amp;rft.au=Megan%20N.%20Imundo&amp;rft.au=Steven%20C.%20Pan&amp;rft.date=2022-09-14&amp;rft.pages=923-941&amp;rft.spage=923&amp;rft.epage=941&amp;rft.issn=0965-8211%2C%201464-0686&amp;rft.language=en'>
+</span>
+
 - Spaced practice
 - Interleaving
 - Generation effect
@@ -43,6 +46,9 @@ class: center, middle
 # Write your own
 
 > [Berry & Chew (2008)](https://journals-sagepub-com.ezproxy.waikato.ac.nz/doi/abs/10.1080/00986280802373841) reported that lower performing psychology students closed the achievement gap with their higher performing peers just by generating three questions about course material each week.
+
+<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1080%2F00986280802373841&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Improving%20Learning%20through%20Interventions%20of%20Student-Generated%20Questions%20and%20Concept%20Maps&amp;rft.jtitle=Teaching%20of%20Psychology&amp;rft.stitle=Teaching%20of%20Psychology&amp;rft.volume=35&amp;rft.issue=4&amp;rft.aufirst=Jack%20W.&amp;rft.aulast=Berry&amp;rft.au=Jack%20W.%20Berry&amp;rft.au=Stephen%20L.%20Chew&amp;rft.date=2008-10&amp;rft.pages=305-312&amp;rft.spage=305&amp;rft.epage=312&amp;rft.issn=0098-6283%2C%201532-8023&amp;rft.language=en'>
+</span>
 
 ---
 

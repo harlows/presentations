@@ -11,7 +11,7 @@ class: center, middle
 - Aka The testing effect
 - Learning is effortful
 
-.right[![Right-aligned image](/assets/retreival_practice.png)]
+<img src="/assets/retreival_practice.png)" height="50%" width="50%"></img>
 
 > Retrieval practice is a highly efficient and effective strategy for enhancing the retention of anatomy and physiology material ([Dobson, 2013](https://doi.org/10.1152/advan.00174.2012)).
 

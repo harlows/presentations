@@ -8,12 +8,11 @@ class: center, middle
 
 # Retrieval Practice
 
-- Aka The testing effect
+- Aka the testing effect
 - Learning is effortful
 
-![](https://github.com/harlows/presentations/blob/3131a2a54a8670f9a458ee1002232fa651c05ddb/assets/retreival_practice.png)
-
-> Retrieval practice is a highly efficient and effective strategy for enhancing the retention of anatomy and physiology material ([Dobson, 2013](https://doi.org/10.1152/advan.00174.2012)).
+> Retrieval practice is a highly efficient and effective strategy for enhancing the retention of anatomy and physiology material
+> .right[([Dobson, 2013](https://doi.org/10.1152/advan.00174.2012)).]
 
 <span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1152%2Fadvan.00174.2012&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Retrieval%20practice%20is%20an%20efficient%20method%20of%20enhancing%20the%20retention%20of%20anatomy%20and%20physiology%20information&amp;rft.jtitle=Advances%20in%20Physiology%20Education&amp;rft.volume=37&amp;rft.issue=2&amp;rft.aufirst=John%20L.&amp;rft.aulast=Dobson&amp;rft.au=John%20L.%20Dobson&amp;rft.date=2013-06&amp;rft.pages=184-191&amp;rft.spage=184&amp;rft.epage=191&amp;rft.issn=1043-4046'>
 </span>
@@ -58,6 +57,7 @@ class: center, middle
 
 ### Bloom's 2 sigma problem:
 > Students tutored one-to-one performed two standard deviations better than students educated in a classroom
+
 - AI can act as your personal tutor
 
 ---

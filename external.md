@@ -71,10 +71,16 @@ class: center, middle
 
 # Prompts
 
+--
+count: false
 `Take the directional terms on page 8 and format them by separating the term and definition with a tab and putting each pair on a new line.`
 
+--
+count: false
 `Write out the cloze sentences on page 9 with a gap for the answer, add a tab and then the answer. Each complete sentence should be on a new line.`
 
+--
+count: false
 `Can you write another example in that style?`
 
 - Remember to be polite :-)

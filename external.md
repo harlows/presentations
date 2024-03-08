@@ -63,7 +63,7 @@ class: center, middle
 ### Bloom's 2 sigma problem:
 > Students tutored one-to-one performed two standard deviations better than students educated in a classroom
 
-.right[([From Wikipedia, the free encyclopaedia](https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem))]
+.right[([Wikipedia contributors, 2024](https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem))]
 
 - AI can act as your personal tutor
 

@@ -12,7 +12,7 @@ class: center, middle
 
 .right[([Dobson, 2013](https://doi.org/10.1152/advan.00174.2012))]
 
-- Aka the testing effect
+- Aka the [testing effect](https://en.wikipedia.org/wiki/Testing_effect)
 - Learning is effortful
   
 <span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1152%2Fadvan.00174.2012&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Retrieval%20practice%20is%20an%20efficient%20method%20of%20enhancing%20the%20retention%20of%20anatomy%20and%20physiology%20information&amp;rft.jtitle=Advances%20in%20Physiology%20Education&amp;rft.volume=37&amp;rft.issue=2&amp;rft.aufirst=John%20L.&amp;rft.aulast=Dobson&amp;rft.au=John%20L.%20Dobson&amp;rft.date=2013-06&amp;rft.pages=184-191&amp;rft.spage=184&amp;rft.epage=191&amp;rft.issn=1043-4046'>
@@ -43,9 +43,9 @@ class: center, middle
 <span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1080%2F09658211.2022.2058553&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=How%20do%20college%20students%20use%20digital%20flashcards%20during%20self-regulated%20learning%3F&amp;rft.jtitle=Memory&amp;rft.stitle=Memory&amp;rft.volume=30&amp;rft.issue=8&amp;rft.aufirst=Inez&amp;rft.aulast=Zung&amp;rft.au=Inez%20Zung&amp;rft.au=Megan%20N.%20Imundo&amp;rft.au=Steven%20C.%20Pan&amp;rft.date=2022-09-14&amp;rft.pages=923-941&amp;rft.spage=923&amp;rft.epage=941&amp;rft.issn=0965-8211%2C%201464-0686&amp;rft.language=en'>
 </span>
 
-- Spaced practice
+- [Spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition)
 - Interleaving
-- Generation effect
+- [Generation effect](https://en.wikipedia.org/wiki/Generation_effect)
 
 ---
 
@@ -62,6 +62,8 @@ class: center, middle
 
 ### Bloom's 2 sigma problem:
 > Students tutored one-to-one performed two standard deviations better than students educated in a classroom
+
+.right[([From Wikipedia, the free encyclopaedia](https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem))]
 
 - AI can act as your personal tutor
 

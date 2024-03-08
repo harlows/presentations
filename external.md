@@ -69,9 +69,7 @@ class: center, middle
 
 # Prompts
 
-```xml
-Take the directional terms on page 8 and format them by separating the term and definition with a tab and putting each pair on a new line.
-```
+`Take the directional terms on page 8 and format them by separating the term and definition with a tab and putting each pair on a new line.`
 
 `Write out the cloze sentences on page 9 with a gap for the answer, add a tab and then the answer. Each complete sentence should be on a new line.`
 

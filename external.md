@@ -23,6 +23,7 @@ class: center, middle
 # Flashcards
 
 > Retrieval practice, often using electronic flashcards, is increasingly utilised among medical students for self-study.
+
 .right[([Sun et al., 2021](https://doi.org/10.1007/s40670-021-01286-y))]
 
 <span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1007%2Fs40670-021-01286-y&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Spaced%20Repetition%20Flashcards%20for%20Teaching%20Medical%20Students%20Psychiatry&amp;rft.jtitle=Medical%20Science%20Educator&amp;rft.stitle=Med.Sci.Educ.&amp;rft.volume=31&amp;rft.issue=3&amp;rft.aufirst=Michael&amp;rft.aulast=Sun&amp;rft.au=Michael%20Sun&amp;rft.au=Shelun%20Tsai&amp;rft.au=Deborah%20L.%20Engle&amp;rft.au=Shelley%20Holmer&amp;rft.date=2021-06-01&amp;rft.pages=1125-1131&amp;rft.spage=1125&amp;rft.epage=1131&amp;rft.issn=2156-8650&amp;rft.language=en'>
@@ -36,6 +37,7 @@ class: center, middle
 # But...
 
 > ...students commonly use digital flashcards in a manner that only partially reflects evidence-based learning principles.
+
 .right[([Zung et al., 2022](https://www.tandfonline.com/doi/full/10.1080/09658211.2022.2058553))]
 
 <span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1080%2F09658211.2022.2058553&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=How%20do%20college%20students%20use%20digital%20flashcards%20during%20self-regulated%20learning%3F&amp;rft.jtitle=Memory&amp;rft.stitle=Memory&amp;rft.volume=30&amp;rft.issue=8&amp;rft.aufirst=Inez&amp;rft.aulast=Zung&amp;rft.au=Inez%20Zung&amp;rft.au=Megan%20N.%20Imundo&amp;rft.au=Steven%20C.%20Pan&amp;rft.date=2022-09-14&amp;rft.pages=923-941&amp;rft.spage=923&amp;rft.epage=941&amp;rft.issn=0965-8211%2C%201464-0686&amp;rft.language=en'>
@@ -67,7 +69,9 @@ class: center, middle
 
 # Prompts
 
-`Take the directional terms on page 8 and format them by separating the term and definition with a tab and putting each pair on a new line.`
+```xml
+Take the directional terms on page 8 and format them by separating the term and definition with a tab and putting each pair on a new line.
+```
 
 `Write out the cloze sentences on page 9 with a gap for the answer, add a tab and then the answer. Each complete sentence should be on a new line.`
 

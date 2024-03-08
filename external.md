@@ -9,8 +9,8 @@ class: center, middle
 # Retrieval Practice
 
 > Retrieval practice is a highly efficient and effective strategy for enhancing the retention of anatomy and physiology material.
-> 
- .right[([Dobson, 2013](https://doi.org/10.1152/advan.00174.2012))]
+
+.right[([Dobson, 2013](https://doi.org/10.1152/advan.00174.2012))]
 
 - Aka the testing effect
 - Learning is effortful

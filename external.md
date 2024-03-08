@@ -13,7 +13,7 @@ class: center, middle
 
 > Retrieval practice is a highly efficient and effective strategy for enhancing the retention of anatomy and physiology material.
 > 
-> .right[([Dobson, 2013](https://doi.org/10.1152/advan.00174.2012))]
+ .right[([Dobson, 2013](https://doi.org/10.1152/advan.00174.2012))]
 
 <span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1152%2Fadvan.00174.2012&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Retrieval%20practice%20is%20an%20efficient%20method%20of%20enhancing%20the%20retention%20of%20anatomy%20and%20physiology%20information&amp;rft.jtitle=Advances%20in%20Physiology%20Education&amp;rft.volume=37&amp;rft.issue=2&amp;rft.aufirst=John%20L.&amp;rft.aulast=Dobson&amp;rft.au=John%20L.%20Dobson&amp;rft.date=2013-06&amp;rft.pages=184-191&amp;rft.spage=184&amp;rft.epage=191&amp;rft.issn=1043-4046'>
 </span>
@@ -22,7 +22,8 @@ class: center, middle
 
 # Flashcards
 
-> Retrieval practice, often using electronic flashcards, is increasingly utilised among medical students for self-study ([Sun et al., 2021](https://doi.org/10.1007/s40670-021-01286-y)).
+> Retrieval practice, often using electronic flashcards, is increasingly utilised among medical students for self-study.
+.right[([Sun et al., 2021](https://doi.org/10.1007/s40670-021-01286-y))]
 
 <span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1007%2Fs40670-021-01286-y&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Spaced%20Repetition%20Flashcards%20for%20Teaching%20Medical%20Students%20Psychiatry&amp;rft.jtitle=Medical%20Science%20Educator&amp;rft.stitle=Med.Sci.Educ.&amp;rft.volume=31&amp;rft.issue=3&amp;rft.aufirst=Michael&amp;rft.aulast=Sun&amp;rft.au=Michael%20Sun&amp;rft.au=Shelun%20Tsai&amp;rft.au=Deborah%20L.%20Engle&amp;rft.au=Shelley%20Holmer&amp;rft.date=2021-06-01&amp;rft.pages=1125-1131&amp;rft.spage=1125&amp;rft.epage=1131&amp;rft.issn=2156-8650&amp;rft.language=en'>
 </span>
@@ -34,7 +35,8 @@ class: center, middle
 
 # But...
 
-> ...students commonly use digital flashcards in a manner that only partially reflects evidence-based learning principles ([Zung et al., 2022](https://www.tandfonline.com/doi/full/10.1080/09658211.2022.2058553)).
+> ...students commonly use digital flashcards in a manner that only partially reflects evidence-based learning principles.
+.right[([Zung et al., 2022](https://www.tandfonline.com/doi/full/10.1080/09658211.2022.2058553))]
 
 <span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1080%2F09658211.2022.2058553&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=How%20do%20college%20students%20use%20digital%20flashcards%20during%20self-regulated%20learning%3F&amp;rft.jtitle=Memory&amp;rft.stitle=Memory&amp;rft.volume=30&amp;rft.issue=8&amp;rft.aufirst=Inez&amp;rft.aulast=Zung&amp;rft.au=Inez%20Zung&amp;rft.au=Megan%20N.%20Imundo&amp;rft.au=Steven%20C.%20Pan&amp;rft.date=2022-09-14&amp;rft.pages=923-941&amp;rft.spage=923&amp;rft.epage=941&amp;rft.issn=0965-8211%2C%201464-0686&amp;rft.language=en'>
 </span>

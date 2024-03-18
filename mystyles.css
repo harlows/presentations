@@ -1,0 +1,13 @@
+/* Two-column layout */  
+.left-column {
+    width: 48%;
+    float: left;
+}
+        
+.right-column {
+    width: 48%;
+    float: right;
+    padding-top: 0em;
+    margin-top: 0em;
+    text-align: left;
+}

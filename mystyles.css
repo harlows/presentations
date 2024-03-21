@@ -16,3 +16,15 @@
     font-size: 18px;
     font-family: 'Ubuntu Mono';
 }
+
+.bottom-bar {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    font-size: 20px;
+    padding: .8em;
+    text-align: left;
+    z-index: 1;
+    p { margin: 0;}
+  }

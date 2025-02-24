@@ -5,6 +5,11 @@ class: center, middle
 ### Te Puna Ako | CeTTL
 
 ---
+# Practice makes perfect
+
+> Practice is essential to learning new facts, but not all practice is equivalent.
+
+---
 
 # Retrieval Practice
 

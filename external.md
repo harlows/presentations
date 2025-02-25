@@ -9,6 +9,8 @@ class: center, middle
 
 > Practice is essential to learning new facts, but not all practice is equivalent.
 
+- Learning is effortful
+
 .right[([Ericsson et al., 1993](http://ovidsp.ovid.com.ezproxy.waikato.ac.nz/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&AN=00006832-199307000-00001&D=ovft))]
 
 <span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20role%20of%20deliberate%20practice%20in%20the%20acquisition%20of%20expert%20performance.&amp;rft.jtitle=Psychological%20review&amp;rft.volume=100&amp;rft.issue=3&amp;rft.aufirst=K.%20Anders&amp;rft.aulast=Ericsson&amp;rft.au=K.%20Anders%20Ericsson&amp;rft.au=Ralf%20T.%20Krampe&amp;rft.au=Clemens%20Tesch-R%C3%B6mer&amp;rft.date=1993&amp;rft.pages=363'></span>
@@ -22,7 +24,6 @@ class: center, middle
 .right[([Dobson, 2013](https://doi.org/10.1152/advan.00174.2012))]
 
 - Aka the [testing effect](https://en.wikipedia.org/wiki/Testing_effect)
-- Learning is effortful
   
 <span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1152%2Fadvan.00174.2012&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Retrieval%20practice%20is%20an%20efficient%20method%20of%20enhancing%20the%20retention%20of%20anatomy%20and%20physiology%20information&amp;rft.jtitle=Advances%20in%20Physiology%20Education&amp;rft.volume=37&amp;rft.issue=2&amp;rft.aufirst=John%20L.&amp;rft.aulast=Dobson&amp;rft.au=John%20L.%20Dobson&amp;rft.date=2013-06&amp;rft.pages=184-191&amp;rft.spage=184&amp;rft.epage=191&amp;rft.issn=1043-4046'>
 </span>
@@ -72,7 +73,7 @@ class: center, middle
 ### Bloom's 2 sigma problem:
 > Students tutored one-to-one performed two standard deviations better than students educated in a classroom
 
-.right[([Wikipedia contributors, 2024](https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem))]
+.right[([Bloom, 1984](https://doi.org/10.3102/0013189X01300600))]
 
 - AI can act as your personal tutor
 
@@ -100,6 +101,5 @@ count: false
 
 - [Knowt: #1 Free Quizlet Alternative](https://knowt.com/)
 - [Anki decks](https://anki-decks.com/)
-- [PDF2Anki](https://www.pdf2-anki.com/)
-- [Lectomate](https://lectomate.app)
+- [memo](https://www.memo.cards/)
 

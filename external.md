@@ -15,6 +15,7 @@ class: center, middle
 
 ???
 Deliberate practice
+10,000 hours
 
 <span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20role%20of%20deliberate%20practice%20in%20the%20acquisition%20of%20expert%20performance.&amp;rft.jtitle=Psychological%20review&amp;rft.volume=100&amp;rft.issue=3&amp;rft.aufirst=K.%20Anders&amp;rft.aulast=Ericsson&amp;rft.au=K.%20Anders%20Ericsson&amp;rft.au=Ralf%20T.%20Krampe&amp;rft.au=Clemens%20Tesch-R%C3%B6mer&amp;rft.date=1993&amp;rft.pages=363'></span>
 
@@ -59,6 +60,9 @@ Deliberate practice
 - [Spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition)
 - Interleaving
 - [Generation effect](https://en.wikipedia.org/wiki/Generation_effect)
+
+???
+Desirable difficulties
 
 ---
 

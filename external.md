@@ -21,6 +21,10 @@ Deliberate practice
 
 ---
 
+![](images/Julius_Yego_Beijing_2015.jpg)
+
+---
+
 # Retrieval Practice
 
 > Retrieval practice is a highly efficient and effective strategy for enhancing the retention of anatomy and physiology material.

@@ -21,7 +21,9 @@ Deliberate practice
 
 ---
 
-![](images/Julius_Yego_Beijing_2015.jpg)
+# Who am I?
+
+![Julius Yego during the 2015 World Championships in Athletics](images/Julius_Yego_Beijing_2015.jpg)
 
 ---
 
@@ -66,7 +68,7 @@ Deliberate practice
 - [Generation effect](https://en.wikipedia.org/wiki/Generation_effect)
 
 ???
-Desirable difficulties
+These are known as Desirable difficulties
 
 ---
 

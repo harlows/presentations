@@ -25,6 +25,10 @@ Deliberate practice
 
 ![Julius Yego during the 2015 World Championships in Athletics](images/Julius_Yego_Beijing_2015.jpg)
 
+--
+count: false
+## Julius Yego "Mr YouTube"
+
 ---
 
 # Retrieval Practice

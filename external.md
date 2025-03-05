@@ -11,7 +11,12 @@ class: center, middle
 
 .right[([Ericsson et al., 1993](http://ovidsp.ovid.com.ezproxy.waikato.ac.nz/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&AN=00006832-199307000-00001&D=ovft))]
 
-- Learning is effortful--count: false, but not all effort leads to learning
+- Learning is effortful
+
+--
+count: false
+, but not all effort leads to learning
+
 - Deliberate practice
 
 ???

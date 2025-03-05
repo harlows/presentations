@@ -27,7 +27,7 @@ Deliberate practice
 
 --
 count: false
-## Julius Yego "Mr YouTube"
+### Julius Yego aka "Mr YouTube"
 
 ---
 

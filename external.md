@@ -11,11 +11,12 @@ class: center, middle
 
 .right[([Ericsson et al., 1993](http://ovidsp.ovid.com.ezproxy.waikato.ac.nz/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&AN=00006832-199307000-00001&D=ovft))]
 
+- Deliberate practice
 - Learning is effortful
 
 ???
-Deliberate practice
-10,000 hours
+Deliberate practice = Motivation + Achievable Skill + Immediate Feedback
+10 years or 10,000 hours
 
 <span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20role%20of%20deliberate%20practice%20in%20the%20acquisition%20of%20expert%20performance.&amp;rft.jtitle=Psychological%20review&amp;rft.volume=100&amp;rft.issue=3&amp;rft.aufirst=K.%20Anders&amp;rft.aulast=Ericsson&amp;rft.au=K.%20Anders%20Ericsson&amp;rft.au=Ralf%20T.%20Krampe&amp;rft.au=Clemens%20Tesch-R%C3%B6mer&amp;rft.date=1993&amp;rft.pages=363'></span>
 
